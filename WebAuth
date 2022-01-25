@@ -1,0 +1,6 @@
+<script type="text/javascript">
+  var webAuth = new auth0.WebAuth({
+    domain:       'dev-7y-3aq38.us.auth0.com',
+    clientID:     'P8TdGJ1uhf2PvxIqh4KuqTsrb8PammIo'
+  });
+</script>
