@@ -1,0 +1,4 @@
+var auth0Manage = new auth0.Management({
+  domain: 'dev-7y-3aq38.us.auth0.com',
+  token: 'ACCESS_TOKEN'
+});
