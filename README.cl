@@ -27,15 +27,15 @@ if (organization && invitation) {
     invitation: params.get('invitation')
   });
 }
-Documentation
+#Documentation
 For a complete reference and examples please check our docs.
 
-Migration
+#Migration
 If you need help migrating to v9, please refer to the v9 Migration Guide.
 
 If you need help migrating to v8, please refer to the v8 Migration Guide.
 
-Develop
+#Develop
 Run npm install to set up the environment.
 
 Run npm start to point your browser to https://localhost:3000/ to verify the example page works.
@@ -54,15 +54,15 @@ Run npm install && npm run build && npm run test:es-check:es5 && npm run test:es
 
 See .circleci/config.yml for additional checks that might be run as part of circleci integration tests.
 
-Issue Reporting
+#Issue Reporting
 If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The Responsible Disclosure Program details the procedure for disclosing security issues.
 
 For auth0 related questions/support please use the Support Center.
 
-Author
+#Author
 Auth0
 
-License
+#License
 This project is licensed under the MIT license. See the LICENSE file for more info.
 
 FOSSA Status
