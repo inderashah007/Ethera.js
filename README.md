@@ -1,4 +1,4 @@
-# Ethera.ky
+# Ethera.js
 Organizations
 Organizations is a set of features that provide better support for developers who build and maintain SaaS and Business-to-Business (B2B) applications.
 
