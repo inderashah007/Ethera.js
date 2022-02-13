@@ -21,7 +21,10 @@
 #
 # If you have any questions or need help contact https://support.42crunch.com
 
-name: "42Crunch REST API Static Security Testing"
+<
+ Name:
+       
+"Ujian Keselamatan Statik API 42Crunch REST"
 
 # follow standard Code Scanning triggers
 on:
