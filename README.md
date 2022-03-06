@@ -75,4 +75,5 @@ Popup
 Redirect
 WebAuth
 Global
-https://circleci.com/gh/inderashah007/Ethera.js/tree/inderashah007.svg?style=svg , 
+https://circleci.com/gh/indrashah007/Ethera.js
+,
