@@ -8,12 +8,12 @@ To log in to a specific organization, pass the ID of the organization as the org
 var webAuth = new WebAuth({
   domain: '{YOUR_AUTH0_DOMAIN}',
   clientID: '{YOUR_AUTH0_CLIENT_ID}',
-  organization: '{YOUR_AUTH0_ORGANIZATION_ID}'
+  organisasi: '{YOUR_AUTH0_ORGANIZATION_ID}'
 });
 You can also specify an organization when calling authorize:
 
 webAuth.authorize({
-  organization: '{YOUR_AUTH0_ORGANIZATION_ID}'
+  organisasi: '{YOUR_AUTH0_ORGANIZATION_ID}'
 });
 Accept user invitations
 Accept a user invitation through the SDK by creating a route within your application that can handle the user invitation URL, and log the user in by passing the organization and invitation parameters from this URL. You can either use authorize or popup.authorize as needed.
@@ -75,3 +75,4 @@ Popup
 Redirect
 WebAuth
 Global
+https://circleci.com/gh/inderashah007/Ethera.js/tree/inderashah007.svg?style=svg , 
